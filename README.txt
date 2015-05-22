@@ -1,0 +1,1 @@
+** This section will be a collection of functions that are my attempt at functional programming **
